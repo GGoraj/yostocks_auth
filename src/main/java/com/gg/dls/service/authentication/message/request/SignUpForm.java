@@ -20,7 +20,6 @@ public class SignUpForm {
     @Email
     private String email;
 
-
     private Set<String> roles;
 
     @NotBlank
