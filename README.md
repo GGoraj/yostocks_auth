@@ -1,4 +1,3 @@
-# yostocks_auth
 ## Application selling fractions of stocks.
 
 ### Microservice responsible for sign up, sign in, JWT token issuing and validation.
